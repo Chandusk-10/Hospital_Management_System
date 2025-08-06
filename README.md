@@ -19,7 +19,7 @@ A complete and user-friendly **Hospital Management System** built using **Micros
 
 ## 🛠️ Technologies Used
 
-- **Microsoft Access 2016+**
+- **Microsoft Access 2007+**
 - **VBA (Visual Basic for Applications)**
 - **SQL (Access Query Language)**
 
